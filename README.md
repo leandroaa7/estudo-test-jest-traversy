@@ -12,10 +12,5 @@
 
 <center>
 
-<div style="filter:invert(100)">
-
-![teste](logo_small.png)
-
-</div>
 
 ## [Link do Vídeo](https://www.youtube.com/watch?v=7r4xVDI2vho)
