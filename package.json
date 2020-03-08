@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "coverage": "jest --coverage"
   },
   "repository": "https://leandroaa7@github.com/leandroaa7/estudo-test-jest-traversy.git",
   "author": "leandroaa7 <leandroaalexandre@gmail.com>",
