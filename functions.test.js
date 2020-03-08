@@ -108,3 +108,5 @@ test('User fetched name should be Leanne Graham using await', async () => {
     const data = await functions.fetchUser()
     expect(data.name).toEqual('Leanne Graham');
 })
+
+//30:26
